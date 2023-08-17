@@ -5,9 +5,9 @@ internal class JogoDaLuta
     public static void Main(string[] args)
     {
         Dictionary<int, Movimentos> opcoes = new();
-        opcoes.Add(1, new Chute());
-        opcoes.Add(2, new Pulo());
-        opcoes.Add(3, new Soco());
+        opcoes.Add(1, new Chute()); // objeto de classe Chute, com tipo Movimentos
+        opcoes.Add(2, new Pulo()); // objeto de classe Pulo, com tipo Movimentos
+        opcoes.Add(3, new Soco()); // objeto de classe Soco, com tipo Movimentos
 
         void jogoLuta()
         {
@@ -16,6 +16,16 @@ internal class JogoDaLuta
             if (opcoes.ContainsKey(usuarioEscolha))
             {
                 opcoes[usuarioEscolha].fazTudo();
+                /* o objeto pode ser de classe Chute, porém, o tipo sempre será Movimento
+                implicando que o que você terá de acesso, virá sempre da classe ancestral, Movimento
+
+                como a classe Movimento possui um método fazTudo() que pode ser sobrescrito (virtual method)
+                e todas as classes possuem um método fazTudo() para sobrescrever o ancestral, a escolha depende
+                apenas de qual classe o objeto pertence, por exemplo:
+                opcoes[usuarioEscolha] é um objeto de classe Pulo com tipo Movimentos, usando .fazTudo(), o método
+                .fazTudo() de Movimentos será sobrescrito pelo método fazTudo() da classe que deriva o objeto, no caso
+                a classe Pulo.
+                */
             }
             else
             {
