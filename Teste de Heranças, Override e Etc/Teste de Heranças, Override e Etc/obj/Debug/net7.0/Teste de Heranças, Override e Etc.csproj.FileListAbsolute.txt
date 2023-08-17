@@ -1,0 +1,14 @@
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\bin\Debug\net7.0\Teste de Heranças, Override e Etc.exe
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\bin\Debug\net7.0\Teste de Heranças, Override e Etc.deps.json
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\bin\Debug\net7.0\Teste de Heranças, Override e Etc.runtimeconfig.json
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\bin\Debug\net7.0\Teste de Heranças, Override e Etc.dll
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\bin\Debug\net7.0\Teste de Heranças, Override e Etc.pdb
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.AssemblyInfoInputs.cache
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.AssemblyInfo.cs
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.csproj.CoreCompileInputs.cache
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.dll
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\refint\Teste de Heranças, Override e Etc.dll
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.pdb
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\Teste de Heranças, Override e Etc.genruntimeconfig.cache
+C:\Users\Neide\source\repos\Teste de Heranças, Override e Etc\Teste de Heranças, Override e Etc\obj\Debug\net7.0\ref\Teste de Heranças, Override e Etc.dll
